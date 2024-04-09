@@ -157,7 +157,5 @@ git remote set-url origin git@github.com:LearningOS/rust-rustlings-2024-spring-w
 
 当在仓库中看到自己最新的提交记录之后，打开[排行榜](https://learningos.cn/rust-rustlings-2024-spring-ranking/) 搜索自己的github用户名，即可查看自己的成绩。
 
-
-
 不过该排行榜数据更新延迟较长，需等待一段时间再进行查看。
 
